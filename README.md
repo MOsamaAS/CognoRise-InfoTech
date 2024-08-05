@@ -12,7 +12,7 @@ For more information, please refer to the [GNU General Public License](https://w
 
 ## Contact
 
-For any questions or feedback, please contact me at [your.email@example.com](mailto:your.email@example.com).
+For any questions or feedback, please contact me at [callixpaxton@gmail.com](mailto:callixpaxton@gmail.com).
 
 ---
 
