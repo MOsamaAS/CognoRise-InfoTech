@@ -1,4 +1,4 @@
-## Lung Disease Classification Model
+# Lung Disease Classification Model
 Overview
 This project aims to develop a deep learning model for classifying lung diseases from X-ray images. The model distinguishes between Normal, Viral Pneumonia, and COVID-19 cases using the ResNet50 architecture.
 
