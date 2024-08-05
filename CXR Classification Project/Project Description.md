@@ -48,4 +48,25 @@ To run this project, you need to have the following libraries installed:
 You can install these dependencies using pip:
 ```bash
 pip install tensorflow numpy pandas matplotlib scikit-learn openpyxl
+```
+## Usage
+
+### Prepare the Data
+Ensure your dataset is organized with directories for training and validation, each containing subdirectories for each class.
+
+### Train the Model
+Run the training script to train the model on your dataset.
+
+### Evaluate the Model
+Use the evaluation script to generate accuracy, precision, recall, F1-score, and confusion matrix.
+
+### Visualize Predictions
+Use the visualization script to see true vs. predicted labels for random images from the test set.
+
+### Export Data
+Export training history and classification report to an Excel file.
+
+## License
+
+This project is licensed under the [Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)](https://creativecommons.org/licenses/by-nd/4.0/) license. You are free to use the code, but you must give appropriate credit, and you may not make any modifications to it.
 
