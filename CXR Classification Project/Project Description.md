@@ -68,5 +68,14 @@ Export training history and classification report to an Excel file.
 
 ## License
 
-This project is licensed under the [Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)](https://creativecommons.org/licenses/by-nd/4.0/) license. You are free to use the code, but you must give appropriate credit, and you may not make any modifications to it.
+This project is licensed under the **GNU General Public License (GPL) Version 3.0**. 
 
+### Key Points:
+
+- **Freedom to Use:** You can use the code for any purpose.
+- **Freedom to Modify:** You can modify the code and adapt it to your needs.
+- **Freedom to Distribute:** You can distribute copies of the original code or your modified version.
+- **Copyleft:** Any derivative works must also be licensed under the GPL.
+- **No Warranty:** The software is provided "as-is" without any warranties.
+
+For more detailed information, please refer to the [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.html).
